@@ -64,9 +64,6 @@ Feel free to use the data and analyses for:
 
 Contributions are welcome! Please submit a pull request or open an issue for suggestions, bug reports, or new analyses.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
