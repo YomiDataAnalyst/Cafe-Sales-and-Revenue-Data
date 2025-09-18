@@ -32,10 +32,12 @@ The dataset typically includes:
 - **Seasonality and peak hours**
 
 - ## Challenges
-- Major challenge was handling inconsistent data from source which cause the delay in analysis.
+Major challenge was handling inconsistent data from source which cause the delay in analysis.
 
 
-   **Reports/**: Summarized findings, insights, and recommendations.
+
+  - **Business Impact & Reports** 
+ 
   The findings shows that extra work is needed in keepimg accuarate record of transactions because the payment platform used for some purchases were not properly captured.
 
   Also, incessant product marketing and certain low-patronized products can enjoy certain periodic discount to drive more sales and generate more profit for the  business.
